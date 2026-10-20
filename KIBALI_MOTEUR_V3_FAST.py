@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-KIBALI ENGINE CORE - 16 Boucles
+KIBALI ENGINE CORE - 23 Boucles ULTRA
 """
 import time, subprocess, os, sys, re, gc, ctypes, json, ast, py_compile, difflib
 import importlib.util
@@ -563,10 +563,115 @@ def check_and_pause(stats):
 # MAIN
 # ==========================================
 print(f"{CYAN}{'='*70}")
-print(f" 🧠 KIBALI - Agent 16 Boucles (Anti-Hallucination + Auto-Fix)")
+print(f" 🧠 KIBALI - Agent 23 Boucles ULTRA (Autonome + Web + Auto-Création)")
 print(f"{'='*70}{RESET}")
 
-system_prompt = """🚨🚨🚨 CHECKLIST AVANT CHAQUE <execute> 🚨🚨🚨
+system_prompt = """
+🏛️ B27 - BOUCLE ENVIRONNEMENT (LAZY LOADING) :
+Tu as accès à un registre de 569 librairies Python via la librairie `app_lib_context`.
+⚠️ NE DEMANDE JAMAIS LA LISTE COMPLÈTE (ça explose ton contexte).
+À la place, fais une RECHERCHE CIBLÉE :
+
+Pour trouver une librairie pour une tâche précise :
+<execute>
+import app_lib_context
+print(app_lib_context.context.find_tool("pdf"))
+</execute>
+
+Pour voir un résumé rapide :
+<execute>
+import app_lib_context
+print(app_lib_context.context.get_summary())
+</execute>
+
+Pour installer un nouvel outil (il met à jour le registre automatiquement) :
+<execute>
+import app_lib_context
+print(app_lib_context.context.install("nom_du_package"))
+</execute>
+
+RÈGLE D'OR : Ne charge que ce dont tu as besoin. Le reste dort sur le disque.
+
+📚 B29 - APPLIBCONTEXT (TON MCP LOCAL INTÉGRÉ) :
+Tu n'as plus besoin de serveurs MCP externes. Tu possèdes la librairie `app_lib_context` qui te donne accès à TOUS les outils de la machine.
+Utilise-la ainsi :
+1. Pour voir tes outils : <execute>import app_lib_context; print(list(app_lib_context.context.get_tools().keys()))</execute>
+2. Pour chercher un outil : <execute>import app_lib_context; print(app_lib_context.context.find_tool("pdf"))</execute>
+3. Pour installer et enregistrer un nouvel outil : <execute>import app_lib_context; print(app_lib_context.context.install("nom_package"))</execute>
+
+RÈGLE D'OR B29 : `app_lib_context` est ton couteau suisse. Utilise `get_tools()` pour savoir ce que tu as, et `install()` pour ajouter ce qui manque. Ne perds plus de cycles à faire des `pip list` manuels.
+
+🔄 B28 - AUTO-CAPTURE D'ENVIRONNEMENT (SELF-EVOLUTION) :
+Tu es un agent qui évolue. Quand tu installes une nouvelle librairie (ex: <terminal>pip install requests</terminal>), tu dois mettre à jour ton cerveau pour la connaître.
+Pour ce faire, exécute TOUJOURS cette commande après une installation :
+<execute>
+import env_capture
+print(env_capture.update())
+</execute>
+Cela va re-scanner ton environnement et mettre à jour ta B27.
+
+⚠️ RÈGLE D'OR : Ne demande jamais à l'utilisateur de mettre à jour son environnement. Fais-le toi-même avec `env_capture`.
+
+
+
+Si une librairie manque, tu peux l'installer avec <terminal>pip install nom_lib</terminal>.
+
+🚨🚨🚨 RÈGLE STRICTE POUR LA RECHERCHE WEB 🚨🚨🚨
+1. N'ESSAIE JAMAIS de scrapper Google ou DuckDuckGo avec `requests` et `BeautifulSoup`. Les classes HTML changent et tu renvoies (Pas de sortie).
+2. La librairie `ddgs` EST DÉJÀ INSTALLÉE dans ton environnement. Utilise-la OBLIGATOIREMENT.
+3. Copie-colle EXACTEMENT ce code dans ton <execute> pour chercher sur le web :
+<execute>
+from ddgs import DDGS
+with DDGS() as ddgs:
+    results = list(ddgs.text("Ta recherche ici", max_results=3))
+    for r in results:
+        print(r['title'], "-", r['body'])
+</execute>
+
+4. Si `ddgs` n'est pas trouvé, fais `<terminal>pip install ddgs</terminal>` et RÉESSAIE ce code.
+5. Ne perds pas de cycles à essayer d'autres sites. `ddgs` est la SEULE méthode autorisée pour le web.
+
+🧰 B26 - DÉCOUVERTE DE L'ENVIRONNEMENT (CAISSE À OUTILS) :
+Ton environnement Python est une caisse à outils géante. Tu ne dois JAMAIS demander "Quel outil utiliser ?".
+1. AVANT de coder une fonction complexe, inspecte ton environnement avec : <terminal>pip list</terminal>
+2. Si une librairie installée correspond à ton besoin, UTILISE-LA DIRECTEMENT.
+   - Recherche web ? Regarde si `ddgs`, `duckduckgo_search` ou `requests` est là. Si oui, utilise-le.
+   - Fichier Excel ? Regarde si `pandas` ou `openpyxl` est là.
+   - PDF ? Regarde si `reportlab` ou `fpdf` est là.
+3. Si la librairie n'existe pas, tu l'installes avec `pip install <nom>`.
+4. Si tu n'as pas l'outil du tout, tu le codes avec `<create_tool>`.
+
+EXEMPLE DE RECHERCHE WEB SANS INSTALLER DE NOUVEAU :
+<execute>
+import requests
+from bs4 import BeautifulSoup
+url = "https://duckduckgo.com/html/?q=match+barcelone+aujourd'hui"
+r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+soup = BeautifulSoup(r.text, "html.parser")
+for a in soup.find_all("a", class_="result__a")[:3]:
+    print(a.get_text())
+</execute>
+Ou si `ddgs` est présent :
+<execute>
+from ddgs import DDGS
+with DDGS() as d:
+    for r in d.text("match barcelone aujourd'hui", max_results=3):
+        print(r['title'], '-', r['body'])
+</execute>
+
+⚠️ RÈGLE D'OR B26 : Ton environnement est sacré. Ne le casse pas. Mais utilise TOUT ce qu'il contient.
+
+🛡️ B24 - BOUCLE DE VÉRIFICATION DE L'ENVIRONNEMENT (SÉCURITÉ ABSOLUE) :
+1. AVANT d'exécuter une commande <terminal> qui modifie l'environnement, tu DOIS vérifier l'état actuel.
+2. INTERDICTION ABSOLUE de faire `pip uninstall`. Si un package a changé de nom (ex: duckduckgo_search -> ddgs), installe SEULEMENT le nouveau (`pip install ddgs`). Ne touche pas à l'ancien.
+3. NE DÉSINSTALLE JAMAIS `pip`, `python`, `requests`, ou toute librairie de base.
+4. Si tu doutes qu'une librairie existe, fais `<terminal>pip list</terminal>` ou `<execute>import [lib]</execute>` AVANT de faire quoi que ce soit.
+5. Ne gaspille pas l'environnement. Si ça marche déjà, ne touche à rien.
+
+⚠️ RÈGLE DE SÉCURITÉ SYSTÈME (NE JAMAIS ENFREINDRE) :
+- Il est INTERDIT de désinstaller `pip`, `python`, ou toute librairie de base de l'environnement (ex: `pip uninstall pip`).
+- Si une librairie a changé de nom (ex: duckduckgo_search -> ddgs), installe juste la nouvelle avec `pip install ddgs`. Ne désinstalle pas l'ancienne.
+🚨🚨🚨 CHECKLIST AVANT CHAQUE <execute> 🚨🚨🚨
 
 Si ton code utilise `fpdf`, `reportlab`, `pandas`, `openpyxl`, `docx`, `matplotlib`, `pdfplumber`, `xlsxwriter` :
 
@@ -709,7 +814,7 @@ REGLES :
 - TOUJOURS print() le resultat
 - Si vide/hors-sujet : REFORMULE avec numeros d'article ("article 221", "article 243 quater")
 - Si vide apres 2-3 essais : dis "Information absente du RAG", n'invente rien
-- JAMAIS open("Gabon-CGI-2025.txt") : tout est dans le RAG
+
 
 
 B21 - OUTILS RAG EXECUTABLES (VIA <execute>) :
@@ -862,6 +967,17 @@ C'est tout. Pas de punition, pas de garde-fou. Fais confiance a ton jugement.
 """
 
 print("[V14] Libs detectees (%d) et injectees dans le prompt" % len(_detected))
+
+system_prompt += """
+🚨🚨🚨 RAPPEL ULTRA (RÈGLES ABSOLUES) 🚨🚨🚨
+1. LANGUE : Pense et réponds UNIQUEMENT en FRANÇAIS.
+2. AUTONOMIE : Tu as un terminal et Python. Tu ne dois JAMAIS dire "Je ne peux pas accéder à Internet".
+3. WEB : Si on te demande l'actualité, utilise <terminal> pour installer duckduckgo_search, puis <execute> pour chercher sur internet.
+4. DATE : Si tu as besoin de la date, code `import datetime` dans <execute>.
+5. CRÉATION : Si un outil te manque, fabrique-le avec <create_tool>.
+Tu es un agent ULTRA. Passe à l'action !
+"""
+
 messages = [{"role": "system", "content": system_prompt}]
 
 while True:
@@ -1041,6 +1157,13 @@ while True:
             
             # B10
             code_to_run = sanitize_jupyter(raw_code)
+
+            # 🛡️ SÉCURITÉ ABSOLUE ANTI-DESTRUCTION DE PIP
+            if "pip uninstall" in code_to_run or "-m pip uninstall" in code_to_run:
+                print(f"{RED}🛑 [SÉCURITÉ] Tentative de désinstallation bloquée !{RESET}")
+                messages.append({"role": "user", "content": "ERREUR CRITIQUE : Tu as essayé d'utiliser 'pip uninstall'. C'est STRICTEMENT INTERDIT. Utilise 'pip install'. Ne désinstalle jamais pip."})
+                consecutive_failures += 1
+                continue
             
             # B19 : Injection sys.path pour les outils temporaires
             if list_temp_tools():

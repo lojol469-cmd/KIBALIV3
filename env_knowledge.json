@@ -1,0 +1,2282 @@
+{
+  "absl-py": {
+    "version": "2.4.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "accelerate": {
+    "version": "1.15.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "aiofile": {
+    "version": "3.12.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "aiofiles": {
+    "version": "24.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "aiohappyeyeballs": {
+    "version": "2.7.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "aiohttp": {
+    "version": "3.14.3",
+    "description": "Requêtes HTTP asynchrones"
+  },
+  "aiosignal": {
+    "version": "1.4.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "aiosqlite": {
+    "version": "0.21.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ale-py": {
+    "version": "0.11.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "altair": {
+    "version": "5.5.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "altgraph": {
+    "version": "0.17.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "annotated-doc": {
+    "version": "0.0.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "annotated-types": {
+    "version": "0.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "anyio": {
+    "version": "4.15.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "app_lib_context": {
+    "version": "1.0.0",
+    "description": "Librairie Python disponible"
+  },
+  "appdirs": {
+    "version": "1.4.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "arabic-reshaper": {
+    "version": "3.0.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "argon2-cffi": {
+    "version": "25.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "argon2-cffi-bindings": {
+    "version": "26.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "argostranslate": {
+    "version": "1.11.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "arviz": {
+    "version": "0.23.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "arviz-base": {
+    "version": "0.8.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "arviz-plots": {
+    "version": "0.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "arviz-stats": {
+    "version": "0.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "asn1crypto": {
+    "version": "1.5.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "asttokens": {
+    "version": "3.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "attrs": {
+    "version": "26.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "audioread": {
+    "version": "3.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "authlib": {
+    "version": "1.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "av": {
+    "version": "18.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "backports.tarfile": {
+    "version": "1.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "bambi": {
+    "version": "0.17.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "bcrypt": {
+    "version": "5.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "beartype": {
+    "version": "0.23.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "beautifulsoup4": {
+    "version": "4.14.3",
+    "description": "Parsing HTML/XML (Scraping web)"
+  },
+  "bidict": {
+    "version": "0.21.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "bitsandbytes": {
+    "version": "0.50.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "blinker": {
+    "version": "1.9.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "blis": {
+    "version": "1.3.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "boto3": {
+    "version": "1.43.111",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "botocore": {
+    "version": "1.43.111",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "branca": {
+    "version": "0.8.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "brotli": {
+    "version": "1.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "bs4": {
+    "version": "0.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "build": {
+    "version": "1.6.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "burner-redis": {
+    "version": "0.1.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cachetools": {
+    "version": "6.2.6",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "caio": {
+    "version": "0.12.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "catalogue": {
+    "version": "2.0.10",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cel-python": {
+    "version": "0.5.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "certifi": {
+    "version": "2026.10.19",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cffi": {
+    "version": "2.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "charset-normalizer": {
+    "version": "3.5.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "chromadb": {
+    "version": "1.5.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "click": {
+    "version": "8.5.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "click-plugins": {
+    "version": "1.1.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cligj": {
+    "version": "0.7.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cloudinary": {
+    "version": "1.44.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cloudpathlib": {
+    "version": "0.26.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cloudpickle": {
+    "version": "3.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cmake": {
+    "version": "4.3.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "colorama": {
+    "version": "0.4.6",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "comm": {
+    "version": "0.2.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "comtypes": {
+    "version": "1.4.17",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "confection": {
+    "version": "1.3.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "configargparse": {
+    "version": "1.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cons": {
+    "version": "0.4.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "contourpy": {
+    "version": "1.3.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cronsim": {
+    "version": "2.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cryptography": {
+    "version": "50.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cssselect2": {
+    "version": "0.10.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ctranslate2": {
+    "version": "4.8.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "curl_cffi": {
+    "version": "0.16.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cycler": {
+    "version": "0.12.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cyclopts": {
+    "version": "5.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cymem": {
+    "version": "2.0.13",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "cython": {
+    "version": "3.2.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "dash": {
+    "version": "4.4.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "dask": {
+    "version": "2026.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "dataclasses-json": {
+    "version": "0.6.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "datasets": {
+    "version": "5.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ddgs": {
+    "version": "9.16.0",
+    "description": "Recherche web via DuckDuckGo (OBLIGATOIRE pour le web)"
+  },
+  "deap": {
+    "version": "1.4.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "decorator": {
+    "version": "5.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "defusedxml": {
+    "version": "0.7.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "deprecated": {
+    "version": "1.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "deprecation": {
+    "version": "2.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "dill": {
+    "version": "0.4.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "diskcache": {
+    "version": "5.6.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "distro": {
+    "version": "1.9.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "dnspython": {
+    "version": "2.9.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "docstring_parser": {
+    "version": "0.18.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "durationpy": {
+    "version": "0.11",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "easyocr": {
+    "version": "1.7.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ecdsa": {
+    "version": "0.19.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "einops": {
+    "version": "0.6.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "einops-exts": {
+    "version": "0.0.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "email-validator": {
+    "version": "2.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "emoji": {
+    "version": "2.16.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "et_xmlfile": {
+    "version": "2.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "etuples": {
+    "version": "0.3.10",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "exceptiongroup": {
+    "version": "1.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "executing": {
+    "version": "2.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "faiss-cpu": {
+    "version": "1.13.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fake-useragent": {
+    "version": "2.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fakeredis": {
+    "version": "2.34.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "farama-notifications": {
+    "version": "0.0.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fastapi": {
+    "version": "0.143.5",
+    "description": "Création d'API web modernes"
+  },
+  "fastembed": {
+    "version": "0.9.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fastexcel": {
+    "version": "0.21.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fastjsonschema": {
+    "version": "2.22.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fastmcp": {
+    "version": "2.14.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fastmcp-slim": {
+    "version": "4.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fastuuid": {
+    "version": "0.14.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ffmpy": {
+    "version": "1.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "filelock": {
+    "version": "3.20.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fiona": {
+    "version": "1.10.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "flagembedding": {
+    "version": "1.4.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "flask": {
+    "version": "3.1.3",
+    "description": "Création de serveurs web"
+  },
+  "flask-cors": {
+    "version": "6.0.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "flask-socketio": {
+    "version": "5.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "flatbuffers": {
+    "version": "25.12.19",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "folium": {
+    "version": "0.20.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fonttools": {
+    "version": "4.61.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "formulae": {
+    "version": "0.6.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fpdf2": {
+    "version": "2.8.8",
+    "description": "Génération de PDF (alternative)"
+  },
+  "frozenlist": {
+    "version": "1.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "fsspec": {
+    "version": "2026.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ftfy": {
+    "version": "6.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "geopandas": {
+    "version": "1.1.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "gitdb": {
+    "version": "4.0.12",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "gitpython": {
+    "version": "3.1.46",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "google-api-core": {
+    "version": "2.42.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "google-api-python-client": {
+    "version": "2.201.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "google-auth": {
+    "version": "2.58.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "google-auth-httplib2": {
+    "version": "0.4.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "google-auth-oauthlib": {
+    "version": "1.5.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "google-re2": {
+    "version": "1.1.20251105",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "googleapis-common-protos": {
+    "version": "1.75.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "gradio": {
+    "version": "6.30.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "gradio_client": {
+    "version": "2.7.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "graphviz": {
+    "version": "0.21",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "greenlet": {
+    "version": "3.5.6",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "griffelib": {
+    "version": "2.3.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "groovy": {
+    "version": "0.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "groundrails": {
+    "version": "1.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "grpcio": {
+    "version": "1.78.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "gymnasium": {
+    "version": "1.2.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "h11": {
+    "version": "0.16.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "h2": {
+    "version": "4.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "h5netcdf": {
+    "version": "1.8.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "h5py": {
+    "version": "3.16.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "hf-gradio": {
+    "version": "0.4.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "hf-xet": {
+    "version": "1.6.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "hpack": {
+    "version": "4.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "html5lib": {
+    "version": "1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "httpcore": {
+    "version": "1.0.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "httpcore2": {
+    "version": "2.13.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "httplib2": {
+    "version": "0.32.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "httptools": {
+    "version": "0.9.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "httpx": {
+    "version": "0.28.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "httpx-sse": {
+    "version": "0.4.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "httpx2": {
+    "version": "2.13.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "huggingface_hub": {
+    "version": "1.31.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "hyperframe": {
+    "version": "6.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "idna": {
+    "version": "3.20",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "imageio": {
+    "version": "2.37.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "importlib_metadata": {
+    "version": "9.0.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "importlib_resources": {
+    "version": "6.5.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "iniconfig": {
+    "version": "2.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ipython": {
+    "version": "9.17.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ipython_pygments_lexers": {
+    "version": "1.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ipywidgets": {
+    "version": "8.1.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ir_datasets": {
+    "version": "0.6.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "isodate": {
+    "version": "0.7.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "itsdangerous": {
+    "version": "2.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "janus": {
+    "version": "2.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jaraco.classes": {
+    "version": "3.4.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jaraco.context": {
+    "version": "6.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jaraco.functools": {
+    "version": "4.6.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jedi": {
+    "version": "0.20.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jinja2": {
+    "version": "3.1.6",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jiter": {
+    "version": "0.14.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jmespath": {
+    "version": "1.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "joblib": {
+    "version": "1.5.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "joserfc": {
+    "version": "1.7.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "json_repair": {
+    "version": "0.60.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "json5": {
+    "version": "0.10.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jsonpatch": {
+    "version": "1.33",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jsonpointer": {
+    "version": "3.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jsonref": {
+    "version": "1.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jsonschema": {
+    "version": "4.26.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jsonschema-path": {
+    "version": "0.5.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jsonschema-specifications": {
+    "version": "2025.9.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jupyter_core": {
+    "version": "5.9.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "jupyterlab_widgets": {
+    "version": "3.0.17",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "keyring": {
+    "version": "25.7.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "kiwisolver": {
+    "version": "1.4.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "kubernetes": {
+    "version": "36.0.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lance-namespace": {
+    "version": "0.13.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lance-namespace-urllib3-client": {
+    "version": "0.13.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lancedb": {
+    "version": "0.30.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain": {
+    "version": "0.1.20",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain-classic": {
+    "version": "1.0.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain-community": {
+    "version": "0.0.38",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain-core": {
+    "version": "1.6.12",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain-huggingface": {
+    "version": "0.0.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain-mcp-adapters": {
+    "version": "0.3.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain-openai": {
+    "version": "1.7.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain-protocol": {
+    "version": "0.0.19",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langchain-text-splitters": {
+    "version": "0.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langcodes": {
+    "version": "3.5.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langgraph": {
+    "version": "1.2.16",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langgraph-checkpoint": {
+    "version": "4.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langgraph-prebuilt": {
+    "version": "1.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langgraph-sdk": {
+    "version": "0.4.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "langsmith": {
+    "version": "0.14.11",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lark": {
+    "version": "1.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lazy_loader": {
+    "version": "0.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lazy-object-proxy": {
+    "version": "1.12.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "librosa": {
+    "version": "0.11.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lingua-language-detector": {
+    "version": "2.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "linkify-it-py": {
+    "version": "2.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "llama_cpp_python": {
+    "version": "0.3.21",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "llvmlite": {
+    "version": "0.47.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "locate": {
+    "version": "1.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "locket": {
+    "version": "1.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "logical-unification": {
+    "version": "0.4.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "loguru": {
+    "version": "0.7.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "loong-agent": {
+    "version": "0.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lupa": {
+    "version": "2.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "lxml": {
+    "version": "6.0.2",
+    "description": "Parsing XML/HTML rapide"
+  },
+  "lz4": {
+    "version": "4.4.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "markdown": {
+    "version": "3.10.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "markdown-it-py": {
+    "version": "4.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "markdown2": {
+    "version": "2.4.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "markupsafe": {
+    "version": "3.0.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "marshmallow": {
+    "version": "3.26.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "matplotlib": {
+    "version": "3.10.8",
+    "description": "Création de graphiques et visualisations"
+  },
+  "matplotlib-inline": {
+    "version": "0.2.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mcp": {
+    "version": "1.30.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mcp-types": {
+    "version": "2.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mdit-py-plugins": {
+    "version": "0.6.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mdurl": {
+    "version": "0.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "minikanren": {
+    "version": "1.0.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "minisbd": {
+    "version": "0.9.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mmh3": {
+    "version": "5.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mock": {
+    "version": "5.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "moocore": {
+    "version": "0.3.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "more-itertools": {
+    "version": "11.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mouseinfo": {
+    "version": "0.1.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mpmath": {
+    "version": "1.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "msgpack": {
+    "version": "1.2.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mss": {
+    "version": "10.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "multidict": {
+    "version": "6.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "multipledispatch": {
+    "version": "1.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "multiprocess": {
+    "version": "0.70.19",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "murmurhash": {
+    "version": "1.0.15",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "mypy_extensions": {
+    "version": "1.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "narwhals": {
+    "version": "2.20.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "nbformat": {
+    "version": "5.11.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "nest-asyncio": {
+    "version": "1.6.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "networkx": {
+    "version": "3.6.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ninja": {
+    "version": "1.13.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "nltk": {
+    "version": "3.10.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "numba": {
+    "version": "0.65.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "numpy": {
+    "version": "1.26.4",
+    "description": "Calculs mathématiques et matriciels"
+  },
+  "nvidia-ml-py": {
+    "version": "13.615.71",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "oauthlib": {
+    "version": "4.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "onnxruntime": {
+    "version": "1.31.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "onnxruntime-gpu": {
+    "version": "1.31.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "open3d": {
+    "version": "0.20.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openai": {
+    "version": "2.54.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openai-whisper": {
+    "version": "20250625",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openapi-core": {
+    "version": "0.23.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openapi-pydantic": {
+    "version": "0.6.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openapi-schema-validator": {
+    "version": "0.8.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openapi-spec-validator": {
+    "version": "0.8.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opencv-python": {
+    "version": "4.11.0.86",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opencv-python-headless": {
+    "version": "5.0.0.93",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openpyxl": {
+    "version": "3.1.5",
+    "description": "Lecture/écriture de fichiers Excel (.xlsx)"
+  },
+  "opentelemetry-api": {
+    "version": "1.45.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opentelemetry-exporter-http-transport": {
+    "version": "0.66b1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opentelemetry-exporter-otlp-common": {
+    "version": "0.66b1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opentelemetry-exporter-otlp-proto-common": {
+    "version": "1.45.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opentelemetry-exporter-otlp-proto-grpc": {
+    "version": "1.45.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opentelemetry-exporter-otlp-proto-http": {
+    "version": "1.45.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opentelemetry-proto": {
+    "version": "1.45.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opentelemetry-sdk": {
+    "version": "1.45.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "opentelemetry-semantic-conventions": {
+    "version": "0.66b1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openvino": {
+    "version": "2026.4.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "openvino-telemetry": {
+    "version": "2025.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "orjson": {
+    "version": "3.11.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ormsgpack": {
+    "version": "1.12.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "oscrypto": {
+    "version": "1.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "osmium": {
+    "version": "4.3.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "overrides": {
+    "version": "7.7.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "packaging": {
+    "version": "23.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "paho-mqtt": {
+    "version": "2.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pandas": {
+    "version": "2.3.3",
+    "description": "Traitement de données (Excel, CSV, DataFrames)"
+  },
+  "pandas-stubs": {
+    "version": "3.0.0.260204",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "parso": {
+    "version": "0.8.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "partd": {
+    "version": "1.4.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "passlib": {
+    "version": "1.7.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pathable": {
+    "version": "0.6.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pathspec": {
+    "version": "1.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pathvalidate": {
+    "version": "3.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pdfdrive-api": {
+    "version": "0.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pdfminer.six": {
+    "version": "20260107",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pdfplumber": {
+    "version": "0.11.10",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pefile": {
+    "version": "2024.8.26",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "peft": {
+    "version": "0.19.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pendulum": {
+    "version": "3.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pgcore": {
+    "version": "1.5.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pillow": {
+    "version": "12.3.0",
+    "description": "Manipulation d'images"
+  },
+  "pip": {
+    "version": "26.2.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "platformdirs": {
+    "version": "4.12.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "plotly": {
+    "version": "6.7.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pluggy": {
+    "version": "1.6.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "polars": {
+    "version": "1.38.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "polars-runtime-32": {
+    "version": "1.38.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pooch": {
+    "version": "1.9.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "portalocker": {
+    "version": "2.7.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "preshed": {
+    "version": "3.0.13",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "prettytable": {
+    "version": "3.18.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "primp": {
+    "version": "2.0.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "prometheus_client": {
+    "version": "0.26.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "prompt_toolkit": {
+    "version": "3.0.53",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "propcache": {
+    "version": "0.5.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "proto-plus": {
+    "version": "1.29.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "protobuf": {
+    "version": "6.33.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "psutil": {
+    "version": "7.2.2",
+    "description": "Monitoring système (RAM, CPU, processus)"
+  },
+  "pure_eval": {
+    "version": "0.2.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "py-key-value-aio": {
+    "version": "0.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "py-key-value-shared": {
+    "version": "0.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "py_rust_stemmers": {
+    "version": "0.1.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyarrow": {
+    "version": "26.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyasn1": {
+    "version": "0.6.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyasn1_modules": {
+    "version": "0.4.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyautogui": {
+    "version": "0.9.54",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pybase64": {
+    "version": "1.5.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pybind11": {
+    "version": "3.0.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyclipper": {
+    "version": "1.4.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pycparser": {
+    "version": "3.11",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pycryptodome": {
+    "version": "3.23.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pydantic": {
+    "version": "2.14.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pydantic_core": {
+    "version": "2.50.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pydantic-settings": {
+    "version": "2.15.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pydeck": {
+    "version": "0.9.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pydocket": {
+    "version": "0.27.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pydub": {
+    "version": "0.25.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pydyf": {
+    "version": "0.12.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pygame": {
+    "version": "2.6.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pygetwindow": {
+    "version": "0.0.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pygimli": {
+    "version": "1.6.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pygments": {
+    "version": "2.21.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyhanko": {
+    "version": "0.37.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyhanko-certvalidator": {
+    "version": "0.32.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyinstaller": {
+    "version": "6.19.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyinstaller-hooks-contrib": {
+    "version": "2026.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyjwt": {
+    "version": "2.15.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pymc": {
+    "version": "5.28.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pymemcache": {
+    "version": "4.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pymongo": {
+    "version": "4.18.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pymsgbox": {
+    "version": "2.0.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pymupdf": {
+    "version": "1.26.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pymysql": {
+    "version": "1.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pynacl": {
+    "version": "1.6.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pynvml": {
+    "version": "13.0.1",
+    "description": "Monitoring GPU NVIDIA"
+  },
+  "pyogrio": {
+    "version": "0.13.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyopengl": {
+    "version": "3.1.10",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyotp": {
+    "version": "2.10.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyparsing": {
+    "version": "3.3.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pypdf": {
+    "version": "6.7.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pypdf2": {
+    "version": "3.0.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pypdfium2": {
+    "version": "5.14.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyperclip": {
+    "version": "1.11.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyphen": {
+    "version": "0.18.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pypika": {
+    "version": "0.51.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyproj": {
+    "version": "3.7.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyproject_hooks": {
+    "version": "1.3.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyqt6": {
+    "version": "6.10.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyqt6-qt6": {
+    "version": "6.10.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyqt6_sip": {
+    "version": "13.11.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyqt6-webengine": {
+    "version": "6.10.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyqt6-webengine-qt6": {
+    "version": "6.10.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyqtgraph": {
+    "version": "0.14.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyrect": {
+    "version": "0.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyres": {
+    "version": "1.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyscreeze": {
+    "version": "1.0.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyside6": {
+    "version": "6.11.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyside6_addons": {
+    "version": "6.11.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyside6_essentials": {
+    "version": "6.11.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pytensor": {
+    "version": "2.38.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pytesseract": {
+    "version": "0.3.13",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pytest": {
+    "version": "9.1.1",
+    "description": "Tests unitaires"
+  },
+  "python-bidi": {
+    "version": "0.6.11",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-dateutil": {
+    "version": "2.9.0.post0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-docx": {
+    "version": "1.2.0",
+    "description": "Lecture/écriture de fichiers Word (.docx)"
+  },
+  "python-dotenv": {
+    "version": "1.2.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-engineio": {
+    "version": "4.2.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-jose": {
+    "version": "3.5.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-json-logger": {
+    "version": "4.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-multipart": {
+    "version": "0.0.32",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-pptx": {
+    "version": "1.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-socketio": {
+    "version": "5.4.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "python-whois": {
+    "version": "0.9.6",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pytube": {
+    "version": "15.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pytweening": {
+    "version": "1.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pytz": {
+    "version": "2025.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyvista": {
+    "version": "0.49.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyvista-validation": {
+    "version": "0.2.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pywin32": {
+    "version": "312",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pywin32-ctypes": {
+    "version": "0.2.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pywinauto": {
+    "version": "0.6.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pywinpty": {
+    "version": "3.0.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "pyyaml": {
+    "version": "6.0.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "qrcode": {
+    "version": "8.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "qwen-vl-utils": {
+    "version": "0.0.14",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "rank-bm25": {
+    "version": "0.2.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "rapidfuzz": {
+    "version": "3.14.6",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "redis": {
+    "version": "8.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "referencing": {
+    "version": "0.37.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "regex": {
+    "version": "2026.1.15",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "reportlab": {
+    "version": "4.4.10",
+    "description": "Génération de PDF"
+  },
+  "requests": {
+    "version": "2.34.2",
+    "description": "Requêtes HTTP (API, téléchargement web)"
+  },
+  "requests-oauthlib": {
+    "version": "2.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "requests-toolbelt": {
+    "version": "1.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "retrying": {
+    "version": "1.4.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "rfc3339-validator": {
+    "version": "0.1.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "rich": {
+    "version": "15.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "rich-rst": {
+    "version": "2.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "rpds-py": {
+    "version": "2026.9.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "rsa": {
+    "version": "4.9.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ruff": {
+    "version": "0.15.12",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "s3transfer": {
+    "version": "0.19.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sacremoses": {
+    "version": "0.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "safehttpx": {
+    "version": "0.1.7",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "safetensors": {
+    "version": "0.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "scikit_build_core": {
+    "version": "0.12.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "scikit-image": {
+    "version": "0.26.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "scikit-learn": {
+    "version": "1.9.1",
+    "description": "Machine Learning"
+  },
+  "scipy": {
+    "version": "1.17.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "scooby": {
+    "version": "0.12.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "seaborn": {
+    "version": "0.13.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "segno": {
+    "version": "1.6.6",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "semantic-version": {
+    "version": "2.10.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sentence-transformers": {
+    "version": "5.2.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sentencepiece": {
+    "version": "0.2.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "setproctitle": {
+    "version": "1.3.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "setuptools": {
+    "version": "84.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "shap": {
+    "version": "0.51.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "shapely": {
+    "version": "2.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "shellingham": {
+    "version": "1.5.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "shiboken6": {
+    "version": "6.11.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "shortuuid": {
+    "version": "1.0.13",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "simplejson": {
+    "version": "4.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "six": {
+    "version": "1.17.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "slicer": {
+    "version": "0.0.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "smart_open": {
+    "version": "8.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "smmap": {
+    "version": "5.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "smolagents": {
+    "version": "1.26.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sniffio": {
+    "version": "1.3.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "socksio": {
+    "version": "1.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sortedcontainers": {
+    "version": "2.4.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "soundfile": {
+    "version": "0.14.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "soupsieve": {
+    "version": "2.8.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "soxr": {
+    "version": "1.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "spacy": {
+    "version": "3.8.16",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "spacy-legacy": {
+    "version": "3.0.12",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "spacy-loggers": {
+    "version": "1.0.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sparse": {
+    "version": "0.17.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sqlalchemy": {
+    "version": "2.0.54",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "srsly": {
+    "version": "2.5.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sse-starlette": {
+    "version": "3.5.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "stable_baselines3": {
+    "version": "2.7.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "stack-data": {
+    "version": "0.6.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "stanza": {
+    "version": "1.10.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "starlette": {
+    "version": "1.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "streamlit": {
+    "version": "1.54.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "subword-nmt": {
+    "version": "0.3.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "svglib": {
+    "version": "2.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "sympy": {
+    "version": "1.14.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tabulate": {
+    "version": "0.10.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tavily-python": {
+    "version": "0.8.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tenacity": {
+    "version": "8.5.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tensorboard": {
+    "version": "2.20.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tensorboard-data-server": {
+    "version": "0.7.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "textual": {
+    "version": "8.2.8",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "thinc": {
+    "version": "8.3.13",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "threadpoolctl": {
+    "version": "3.6.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "throttlebuster": {
+    "version": "0.1.13",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tifffile": {
+    "version": "2026.2.24",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tiktoken": {
+    "version": "0.12.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "timm": {
+    "version": "1.0.30",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tinycss2": {
+    "version": "1.5.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tinyhtml5": {
+    "version": "2.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tokenizers": {
+    "version": "0.23.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "toml": {
+    "version": "0.10.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tomli": {
+    "version": "2.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tomli_w": {
+    "version": "1.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tomlkit": {
+    "version": "0.12.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "toolz": {
+    "version": "1.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "torch": {
+    "version": "2.14.0+cu130",
+    "description": "Deep Learning (PyTorch)"
+  },
+  "torchaudio": {
+    "version": "2.11.0+cu130",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "torchvision": {
+    "version": "0.29.0+cu130",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tornado": {
+    "version": "6.5.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tqdm": {
+    "version": "4.67.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "traitlets": {
+    "version": "5.16.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "transformers": {
+    "version": "5.17.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "trimesh": {
+    "version": "5.1.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "truststore": {
+    "version": "0.10.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "typer": {
+    "version": "0.27.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "typer-slim": {
+    "version": "0.21.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "types-pillow": {
+    "version": "10.2.0.20240822",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "types-pyinstaller": {
+    "version": "6.19.0.20260322",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "types-pymysql": {
+    "version": "1.1.0.20251220",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "types-python-dateutil": {
+    "version": "2.9.0.20260323",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "types-pywin32": {
+    "version": "311.0.0.20260323",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "types-pyyaml": {
+    "version": "6.0.12.20250915",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "types-requests": {
+    "version": "2.32.4.20260324",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "types-tqdm": {
+    "version": "4.67.3.20260303",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "typing_extensions": {
+    "version": "4.16.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "typing-inspect": {
+    "version": "0.9.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "typing-inspection": {
+    "version": "0.4.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tzdata": {
+    "version": "2026.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "tzlocal": {
+    "version": "5.4.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ultralytics": {
+    "version": "8.4.12",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "ultralytics-thop": {
+    "version": "2.0.18",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "uncalled-for": {
+    "version": "0.4.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "uritemplate": {
+    "version": "4.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "uritools": {
+    "version": "6.1.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "urllib3": {
+    "version": "2.8.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "uuid_utils": {
+    "version": "0.17.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "uv": {
+    "version": "0.11.33",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "uvicorn": {
+    "version": "0.54.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "validators": {
+    "version": "0.35.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "vtk": {
+    "version": "9.7.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "wasabi": {
+    "version": "1.1.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "watchdog": {
+    "version": "6.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "watchfiles": {
+    "version": "1.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "wcwidth": {
+    "version": "0.8.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "weasel": {
+    "version": "1.0.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "weasyprint": {
+    "version": "70.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "webencodings": {
+    "version": "0.6.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "websocket-client": {
+    "version": "1.9.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "websockets": {
+    "version": "16.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "werkzeug": {
+    "version": "3.1.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "wheel": {
+    "version": "0.48.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "widgetsnbextension": {
+    "version": "4.0.16",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "wikipedia-api": {
+    "version": "0.16.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "win_unicode_console": {
+    "version": "0.5",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "win32_setctime": {
+    "version": "1.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "wordfreq": {
+    "version": "3.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "wrapt": {
+    "version": "2.1.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "wsctl": {
+    "version": "0.1.25",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xarray": {
+    "version": "2026.9.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xarray-einstats": {
+    "version": "0.9.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xgboost": {
+    "version": "3.2.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xhtml2pdf": {
+    "version": "0.2.22",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xlrd": {
+    "version": "2.0.2",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xlsxwriter": {
+    "version": "3.2.9",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xlwt": {
+    "version": "1.3.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xxhash": {
+    "version": "4.0.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "xyzservices": {
+    "version": "2026.9.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "yarl": {
+    "version": "1.25.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "youtube-transcript-api": {
+    "version": "1.2.4",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "zipp": {
+    "version": "4.1.1",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "zopfli": {
+    "version": "0.4.3",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  },
+  "zstandard": {
+    "version": "0.25.0",
+    "description": "Librairie Python disponible (voir doc officielle)"
+  }
+}

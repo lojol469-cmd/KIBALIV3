@@ -1,11 +1,30 @@
-__pycache__/
-*.pyc
+# --- Python / Environnement ---
 environment/
 venv/
-*.gguf
-*.safetensors
-*.pdf
-temp_agent_exec.py
-out/
-*.before_*
+.venv/
+__pycache__/
+*.pyc
+*.pyo
 *.log
+.env
+temp_tools/
+temp_memory/
+*.bak_*
+
+# --- Modèles et binaires lourds ---
+models/
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# --- Flutter ---
+KibaliFlutter/.dart_tool/
+KibaliFlutter/build/
+KibaliFlutter/.idea/
+KibaliFlutter/windows/flutter/ephemeral/
+
+# --- Divers ---
+.DS_Store
+Thumbs.db
