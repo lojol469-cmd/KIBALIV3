@@ -1,45 +1,11 @@
-# ── Runtime Python portable (trop lourd pour git) ─────────────────────────
-python/
-
-# ── Modèles IA (fichiers .safetensors > 13 GB) ────────────────────────────
-models/
-
-# ── Historique VS Code ─────────────────────────────────────────────────────
-.history/
-
-# ── Logs et fichiers temporaires ──────────────────────────────────────────
-crash_log.txt
-err.txt
-out.txt
-import_result.txt
-*.log
-
-# ── Python cache ──────────────────────────────────────────────────────────
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
-*.egg-info/
-dist/
-build/
-
-# ── PDF et exports temporaires générés ────────────────────────────────────
-*.pdf
-*.tmp
-
-# ── Environnements virtuels ───────────────────────────────────────────────
-.env
-.venv
-env/
+*.pyc
+environment/
 venv/
-
-# ── OS ────────────────────────────────────────────────────────────────────
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# ── Sécurité ──────────────────────────────────────────────────────────────
-security/__pycache__/
-security/sessions/
-# .env contient MONGO_URI, JWT_SECRET, CPT_SECRET_KEY — NE PAS committer
+*.gguf
+*.safetensors
+*.pdf
+temp_agent_exec.py
+out/
+*.before_*
+*.log

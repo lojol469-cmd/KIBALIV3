@@ -1,0 +1,11 @@
+KIBALI MOTEUR V3 FAST - PROPRIETARY LICENSE
+Copyright (c) 2026 KIBALI. All rights reserved.
+
+LE MOTEUR D'ORCHESTRATION (21 boucles, prompts, anti-hallucination,
+RAG temps reel, auto-detection libs) est la PROPRIETE EXCLUSIVE de l'auteur.
+
+Les MODELES (Qwen3-8B, BGE-M3) gardent leurs licences (Apache 2.0, MIT).
+
+VOUS POUVEZ : utiliser, modifier, distribuer (avec mention).
+VOUS NE POUVEZ PAS : revendiquer la paternite, vendre le moteur seul.
+FOURNI TEL QUEL, SANS GARANTIE.
