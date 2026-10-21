@@ -1,0 +1,1 @@
+' Le code VBA généré par l'IA apparaîtra ici.
